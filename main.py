@@ -30,10 +30,12 @@ if __name__ == '__main__':
     print(type(animal))
 
 if __name__ == '__main__':
-    c1 = 2, "2"
-    print(c1)
+    c1 = 2
+    print(str(c1))
+    print(type(str(c1)))
 if __name__ == '__main__':
-    c2 = 3, "3"
-    print(c2)
+    c2 = 3
+    print(str(c2))
+    print((type(str(c2))))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
