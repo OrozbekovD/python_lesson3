@@ -1,0 +1,11 @@
+/ delenie
+* umnojenie
+** возведение в степень
+% - // деление без остатка
+print(int(1) + int(1))
+    print(str(1) + str(1))
+
+    x = 1
+    x += 1
+    x -= 1
+    if __name__ == '__main__':
